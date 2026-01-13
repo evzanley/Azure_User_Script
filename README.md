@@ -13,4 +13,5 @@ To install AzureAD, run:
 
 You can then create a new user in your Azure AD environment by running:
 
-```.\AddUser.ps1 -FirstName Fore -LastName Last -Password password -Dept Fake -City Exampletown -Phone 3333333333 -Title JobTitle -ReferenceUser olduser@domain.com -Domain domain.com'''
+```
+.\AddUser.ps1 -FirstName Fore -LastName Last -Password password -Dept Fake -City Exampletown -Phone 3333333333 -Title JobTitle -ReferenceUser olduser@domain.com -Domain domain.com
